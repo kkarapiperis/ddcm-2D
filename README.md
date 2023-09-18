@@ -1,4 +1,4 @@
-# README
+# Data-Driven Computational Mechanics
 
 Python code for solving 2D boundary value problems using the DDCM framework (Kirchodoerder et. al., 2016)
 
