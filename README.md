@@ -1,7 +1,6 @@
 # README
 
 Python code for solving 2D boundary value problems using the DDCM framework (Kirchodoerder et. al., 2016)
-This was created in the context of the Alert Doctoral School 2023.
 
 ## Prerequisites
 - Python 3.10
